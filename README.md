@@ -1,1 +1,5 @@
 # pebble-watchface
+
+##メンバー
+
+*testmember
