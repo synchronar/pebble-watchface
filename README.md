@@ -1,5 +1,6 @@
-# pebble-watchface
+##pebble-watchface
 
-##メンバー
+UTDESIGNによるPebble用watchfaceです。
 
-*testmember
+
+http://synchronar.blogspot.jp
